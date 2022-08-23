@@ -1,0 +1,24 @@
+body,html {
+    margin: 0;
+}
+
+.conatiner {
+    width: 100vw;
+    height: 100vh;
+}
+.main__container {
+    width: 1320px;
+    height: 100vh;
+    margin:0px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main__github{
+    border: 1px solid rgba(255, 255, 255, 0.014);
+    border-radius: 50%;
+}
+
+.main__github i{
+    font-size: 45px;
+}
